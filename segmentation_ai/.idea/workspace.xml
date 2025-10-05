@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8362e8c-6976-4bab-b49f-79dbbff66643" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2uEpNkKZl0KGb38ZitMmn35Mca2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Save_png.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TEST_VIDEO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.U_net_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.image_augmentation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.image_dataset.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.res_UNET.executor&quot;: &quot;Run&quot;,
+    &quot;Python.save_video.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_line_1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rusta/OneDrive/Рабочий стол&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rusta\OneDrive\Рабочий стол" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="segmentation_ai" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
+        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8362e8c-6976-4bab-b49f-79dbbff66643" name="Changes" comment="" />
+      <created>1741823550194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741823550194</updated>
+      <workItem from="1741823551540" duration="10231000" />
+      <workItem from="1741885733950" duration="9866000" />
+      <workItem from="1741919690695" duration="2461000" />
+      <workItem from="1741957983343" duration="2912000" />
+      <workItem from="1741979987202" duration="28000" />
+      <workItem from="1742338128545" duration="3390000" />
+      <workItem from="1742342874426" duration="4438000" />
+      <workItem from="1742347474910" duration="4654000" />
+      <workItem from="1742363928827" duration="2408000" />
+      <workItem from="1742544648284" duration="4286000" />
+      <workItem from="1742555775594" duration="10763000" />
+      <workItem from="1742641692015" duration="2245000" />
+      <workItem from="1742649370277" duration="2674000" />
+      <workItem from="1742847033899" duration="1034000" />
+      <workItem from="1743177379621" duration="105000" />
+      <workItem from="1744302101963" duration="2391000" />
+      <workItem from="1744331215025" duration="1693000" />
+      <workItem from="1744623149511" duration="229000" />
+      <workItem from="1744623404309" duration="6352000" />
+      <workItem from="1744711375346" duration="4778000" />
+      <workItem from="1744770509738" duration="2203000" />
+      <workItem from="1744777942154" duration="4899000" />
+      <workItem from="1744800731466" duration="4066000" />
+      <workItem from="1745232227242" duration="9000" />
+      <workItem from="1745249725394" duration="1715000" />
+      <workItem from="1745251474878" duration="1134000" />
+      <workItem from="1745261616663" duration="1480000" />
+      <workItem from="1745422492320" duration="2883000" />
+      <workItem from="1747146592570" duration="9000" />
+      <workItem from="1747182474063" duration="5174000" />
+      <workItem from="1747276434704" duration="15703000" />
+      <workItem from="1747455972188" duration="3615000" />
+      <workItem from="1747532528478" duration="1313000" />
+      <workItem from="1747535390793" duration="1451000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/segmentation_ai$TEST_VIDEO.coverage" NAME="TEST_VIDEO Coverage Results" MODIFIED="1747533414396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TEST_VIDEO" />
+    <SUITE FILE_PATH="coverage/segmentation_ai$U_net_test.coverage" NAME="U_net_test Coverage Results" MODIFIED="1747458267431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/segmentation_ai$save_video.coverage" NAME="save_video Coverage Results" MODIFIED="1745251902122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TEST_VIDEO" />
+    <SUITE FILE_PATH="coverage/segmentation_ai$image_dataset.coverage" NAME="image_dataset Coverage Results" MODIFIED="1747184536279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/image_dataset" />
+    <SUITE FILE_PATH="coverage/segmentation_ai$Save_png.coverage" NAME="Save_png Coverage Results" MODIFIED="1745426326451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TEST_VIDEO" />
+    <SUITE FILE_PATH="coverage/segmentation_ai$image_augmentation.coverage" NAME="image_augmentation Coverage Results" MODIFIED="1747287403109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/image_dataset" />
+    <SUITE FILE_PATH="coverage/segmentation_ai$test_line_1.coverage" NAME="test_line_1 Coverage Results" MODIFIED="1744779384151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/segmentation_ai$main.coverage" NAME="main Coverage Results" MODIFIED="1742654859967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/segmentation_ai$res_UNET.coverage" NAME="res_UNET Coverage Results" MODIFIED="1747456309459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/results" />
+  </component>
+</project>
